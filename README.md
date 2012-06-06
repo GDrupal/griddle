@@ -7,6 +7,8 @@ Griddle is a CSS grid system for modern browsers. It is generated from a set of 
 [Contribution guidelines](https://github.com/necolas/issue-guidelines)
 
 ## Features
+
+
 * Fluid layout.
 * Fluid offsets.
 * Intelligent cell wrapping.
@@ -43,7 +45,7 @@ For any subsequent breakpoints specified in separate files, import `grid-helpers
 
 You can have a cell that is 50% wide at narrow viewports, but 25% wide at wider viewports when the styles are applied to the modifier class: (`<div class="grid__cell unit-1-2 unit-1-4--desktop>`).
 
-Feel free to customize the default class name pattern to suit your personal preferences.
+Feel f  ree to customize the default class name pattern to suit your personal preferences.
 
 ## Browser support
 
